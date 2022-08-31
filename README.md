@@ -3,8 +3,7 @@
 
 Dataset:
 
-Experiment 1:
-Change activation function
+### Experiment 1: Change activation function
 
 
 * Relu
