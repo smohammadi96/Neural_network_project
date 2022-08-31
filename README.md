@@ -2,7 +2,7 @@
 
 **Task: Classification**
 
-**Dataset: Fasion MNIST**
+**Dataset: Fation MNIST**
 
 ### Experiment 1: Change activation function
 
