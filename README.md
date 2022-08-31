@@ -46,9 +46,19 @@ Sigmoid | SGD | 0.77 | 0.63 |
 * Adam
 
 
-<!-- ![ELU](https://github.com/smohammadi96/Neural_network_project/blob/main/images/ELU.PNG) -->
+![adam](https://github.com/smohammadi96/Neural_network_project/blob/main/images/adam.PNG)
+
 * Nadam
+
+![nadam](https://github.com/smohammadi96/Neural_network_project/blob/main/images/Nadam.PNG)
 
 * RMSprop
 
-* 
+![rmsprop](https://github.com/smohammadi96/Neural_network_project/blob/main/images/rmsprop.PNG)
+
+Activation function | Optimizer | Accuracy on test set | Loss | 
+--- | --- | --- | --- |
+Relu | SGD | 0.86 | 0.33 | 
+Relu | Adam | 0.87 | 0.51 |
+Relu | RMSprop | 0.87 | 0.67 |
+Relu | Nadam | 0.84 | 0.52
