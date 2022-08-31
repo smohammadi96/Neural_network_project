@@ -62,3 +62,8 @@ Relu | SGD | 0.86 | 0.33 |
 Relu | Adam | 0.87 | 0.51 |
 Relu | RMSprop | 0.87 | 0.67 |
 Relu | Nadam | 0.84 | 0.52
+
+
+### Experiment 3: change layers and neurons number
+
+![layers](https://github.com/smohammadi96/Neural_network_project/blob/main/images/layers.PNG)
