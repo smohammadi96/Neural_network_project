@@ -1,6 +1,7 @@
 # Neural_network_project
 
 **Task: Classification**
+
 **Dataset: Fasion MNIST**
 
 ### Experiment 1: Change activation function
