@@ -38,3 +38,17 @@ Relu | SGD | 0.87 | 0.33 |
 Tanh | SGD | 0.65 | 0.83 |
 ELU | SGD | 0.87 | 0.36 |
 Sigmoid | SGD | 0.77 | 0.63 |
+
+
+
+### Experiment 2: change Optimizer
+
+* Adam
+
+
+<!-- ![ELU](https://github.com/smohammadi96/Neural_network_project/blob/main/images/ELU.PNG) -->
+* Nadam
+
+* RMSprop
+
+* 
