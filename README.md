@@ -31,3 +31,10 @@ Dataset:
 
 ![ELU](https://github.com/smohammadi96/Neural_network_project/blob/main/images/ELU.PNG)
 
+
+Activation function | Optimizer | Accuracy on test set | Loss | 
+--- | --- | --- | --- |
+Relu | 301 | 283 | 290 | 286 |
+Tanh |  |||
+ELU | |||
+Sigmoid | |||
